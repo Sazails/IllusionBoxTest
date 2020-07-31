@@ -16,7 +16,7 @@ namespace IllusionTest
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new illusion_form());
+            Application.Run(new IllusionForm());
         }
     }
 }
